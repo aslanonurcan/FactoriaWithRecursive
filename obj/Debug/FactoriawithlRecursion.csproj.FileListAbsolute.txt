@@ -1,0 +1,14 @@
+C:\Users\Section2\source\repos\NTDers5\FactoriawithlRecursion\obj\Debug\FactoriawithlRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NTDers5\FactoriawithlRecursion\bin\Debug\FactoriawithlRecursion.exe.config
+C:\Users\Section2\source\repos\NTDers5\FactoriawithlRecursion\bin\Debug\FactoriawithlRecursion.exe
+C:\Users\Section2\source\repos\NTDers5\FactoriawithlRecursion\bin\Debug\FactoriawithlRecursion.pdb
+C:\Users\Section2\source\repos\NTDers5\FactoriawithlRecursion\obj\Debug\FactoriawithlRecursion.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NTDers5\FactoriawithlRecursion\obj\Debug\FactoriawithlRecursion.exe
+C:\Users\Section2\source\repos\NTDers5\FactoriawithlRecursion\obj\Debug\FactoriawithlRecursion.pdb
+C:\Users\Ben\Desktop\github\FactoriawithlRecursion\bin\Debug\FactoriawithlRecursion.exe.config
+C:\Users\Ben\Desktop\github\FactoriawithlRecursion\bin\Debug\FactoriawithlRecursion.exe
+C:\Users\Ben\Desktop\github\FactoriawithlRecursion\bin\Debug\FactoriawithlRecursion.pdb
+C:\Users\Ben\Desktop\github\FactoriawithlRecursion\obj\Debug\FactoriawithlRecursion.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\github\FactoriawithlRecursion\obj\Debug\FactoriawithlRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\github\FactoriawithlRecursion\obj\Debug\FactoriawithlRecursion.exe
+C:\Users\Ben\Desktop\github\FactoriawithlRecursion\obj\Debug\FactoriawithlRecursion.pdb
